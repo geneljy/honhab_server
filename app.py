@@ -23,5 +23,5 @@ def add_stock():
 def home():
     return "혼합투자 감시 서버 정상 작동 중!"
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8000)
+
+    
